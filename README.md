@@ -14,13 +14,13 @@ Greetings, i specialize in WordPress development and am an expert in WooCommerce
 ✅ WordPress Theme Creation from PSD, HTML/CSS <br>
 ✅ WordPress Custom Plugin Development <br>
 ✅ Theme Customization <br>
-✅ Website Fixing
-✅ Woo-commerce Development / Customization=
-✅ Laravel Web Development
-✅ Web Design
-✅ JavaScript / Bootstrap / HTML5 / CSS3
-✅ Photoshop
-✅ Illustrator
+✅ Website Fixing<br>
+✅ Woo-commerce Development / Customization<br>
+✅ Laravel Web Development<br>
+✅ Web Design<br>
+✅ JavaScript / Bootstrap / HTML5 / CSS3<br>
+✅ Photoshop<br>
+✅ Illustrator<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 
