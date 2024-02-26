@@ -15,7 +15,7 @@ Greetings, i specialize in WordPress development and am an expert in WooCommerce
 ✅ WordPress Custom Plugin Development <br>
 ✅ Theme Customization <br>
 ✅ Website Fixing
-✅ Woo-commerce Development / Customization
+✅ Woo-commerce Development / Customization=
 ✅ Laravel Web Development
 ✅ Web Design
 ✅ JavaScript / Bootstrap / HTML5 / CSS3
